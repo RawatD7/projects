@@ -15,7 +15,7 @@ public class BaseMain {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		
 	}
-//close browser
+//close browser....
 	public void closeBrowser(){
 		
 		driver.quit();
